@@ -1,0 +1,84 @@
+body{
+    background-color: #292929;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+p{
+    font-family: 'Fira Sans', sans-serif;
+}
+.div1{
+    background-color: rgb(33, 33, 81);
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.div1:hover{
+    transform: scale(1.1);
+    transition: 0.8s;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.quest1{
+   margin-left: 50px;
+   color: white;
+}
+.ans1{
+    margin-left: 30px;
+    font-size: 19px;
+    color: white;
+}
+.div2{
+    background-color: rgb(33, 33, 81);
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.div2:hover{
+    transform: scale(1.1);
+    transition: 0.8s;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.quest2{
+    margin-left: 20px;
+    color: white;
+}
+.ans2{
+    margin-left: 12px;
+    color: white;
+    font-size: 19px;
+    
+}
+.div3{
+    background-color: rgb(33, 33, 81);
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.div3:hover{
+    transform: scale(1.1);
+    transition: 0.8s;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.quest3{
+    color: white;
+    margin-left: 25px;
+}
+.ans3{
+    color: white;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 19px;
+
+
+}
